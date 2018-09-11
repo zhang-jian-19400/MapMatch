@@ -1,1 +1,2 @@
 this project is finished by other open-resource python libs instead of arcpy.
+ currently, it is a version for hadoop streaming. for single machine, just change the input of stdin. 
